@@ -10,3 +10,6 @@ const a = () => {
 const b = () => {
 	Number('32');
 }
+const release = () => {
+	Number('32');
+}
