@@ -5,3 +5,6 @@ const all= ()=>{
 		return prev；
 	})
 }
+ const a=()=>{
+ 	Number('32');
+ }
