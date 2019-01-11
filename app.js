@@ -1,3 +1,3 @@
 const c = () => {
-	Number('xxxxxx cccccccc');
+	Number('xxxxxx yyyycccccccc');
 }
