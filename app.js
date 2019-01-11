@@ -4,7 +4,7 @@ const allchange = () => {
 		return prev；
 	})
 }
-const a = () => {
+const dev = () => {
 	Number('32');
 }
 const b = () => {
