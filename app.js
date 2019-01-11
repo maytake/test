@@ -1,5 +1,5 @@
 const arr = [1, 2, 3];
-const all = () => {
+const allchange = () => {
 	arr.reduce((prev, next) => {
 		return prev；
 	})
@@ -11,5 +11,9 @@ const b = () => {
 	Number('32');
 }
 const release = () => {
+	Number('32');
+}
+
+const newA = () => {
 	Number('32');
 }
