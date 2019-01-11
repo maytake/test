@@ -1,19 +1,19 @@
 const arr = [1, 2, 3];
-const allchange = () => {
+const allfdsafchange = () => {
 	arr.reduce((prev, next) => {
 		return prev；
 	})
 }
-const a = () => {
+const dsfdasf = () => {
 	Number('32');
 }
 const b = () => {
 	Number('32');
+}fdasf
+const release fd= () => {
+	Number('3afdas2');
 }
-const release = () => {
-	Number('32');
-}
-
-const newA = () => {
+f
+const newfdsfdasfAc = () => {
 	Number('32');
 }
